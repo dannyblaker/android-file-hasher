@@ -2,6 +2,9 @@
 
 A Python script that recursively scans your Android phone connected via USB and generates a CSV file containing MD5 hashes, file paths, and file sizes for every file on the device.
 
+[![A Danny Blaker project badge](https://github.com/dannyblaker/dannyblaker.github.io/blob/main/danny_blaker_project_badge.svg)](https://github.com/dannyblaker/)
+
+
 ## Features
 
 - 🔍 Recursively scans entire Android device
